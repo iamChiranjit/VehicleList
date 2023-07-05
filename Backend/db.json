@@ -1,0 +1,88 @@
+{
+  "favourite": [
+    {
+      "name": "Sand Crawler",
+      "model": "Digger Crawler",
+      "manufacturer": "Corellia Mining Corporation",
+      "length": "36.8 ",
+      "crew": "46",
+      "passengers": "30",
+      "cargo_capacity": "50000",
+      "consumables": "2 months",
+      "vehicle_class": "wheeled",
+      "id": 1
+    },
+    {
+      "name": "Snowspeeder",
+      "model": "t-47 airspeeder",
+      "manufacturer": "Incom corporation",
+      "length": "4.5",
+      "crew": "2",
+      "passengers": "0",
+      "cargo_capacity": "10",
+      "consumables": "none",
+      "vehicle_class": "airspeeder",
+      "id": 2
+    },
+    {
+      "name": "T-16 skyhopper",
+      "model": "T-16 skyhopper",
+      "manufacturer": "Incom Corporation",
+      "length": "10.4 ",
+      "crew": "1",
+      "passengers": "1",
+      "cargo_capacity": "50",
+      "consumables": "0",
+      "vehicle_class": "repulsorcraft",
+      "id": 3
+    },
+    {
+      "name": "AT-AT",
+      "model": "All Terrain Armored Transport",
+      "manufacturer": "Kuat Drive Yards, Imperial Department of Military Research",
+      "length": "20",
+      "crew": "5",
+      "passengers": "40",
+      "cargo_capacity": "1000",
+      "consumables": "unknown",
+      "vehicle_class": "assault walker",
+      "id": 5
+    },
+    {
+      "name": "AT-ST",
+      "model": "All Terrain Scout Transport",
+      "manufacturer": "Kuat Drive Yards, Imperial Department of Military Research",
+      "length": "2",
+      "crew": "2",
+      "passengers": "0",
+      "cargo_capacity": "200",
+      "consumables": "none",
+      "vehicle_class": "walker",
+      "id": 6
+    },
+    {
+      "name": "Sail barge",
+      "model": "Modified Luxury Sail Barge",
+      "manufacturer": "Ubrikkian Industries Custom Vehicle Division",
+      "length": "30",
+      "crew": "26",
+      "passengers": "500",
+      "cargo_capacity": "2000000",
+      "consumables": "Live food tanks",
+      "vehicle_class": "sail barge",
+      "id": 7
+    },
+    {
+      "name": "Multi-Troop Transport",
+      "model": "Multi-Troop Transport",
+      "manufacturer": "Baktoid Armor Workshop",
+      "length": "31",
+      "crew": "4",
+      "passengers": "112",
+      "cargo_capacity": "12000",
+      "consumables": "unknown",
+      "vehicle_class": "repulsorcraft",
+      "id": 8
+    }
+  ]
+}
